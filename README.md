@@ -1,4 +1,4 @@
-# 2020-08- WEB UI 과제 입니다.
+# 2020-08-20 WEB UI 과제 입니다.
 
 - Leet Code
     - explore
